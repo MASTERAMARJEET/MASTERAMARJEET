@@ -14,7 +14,7 @@ You can find me at my [**personal website**][website] or **Connect with me at** 
 
 <br/>
 
-[website]: masteramarjeet.github.io
+[website]: https://masteramarjeet.github.io
 [gmail]: mailto:masteramarjeetkumar@gmail.com
 [twitter]: https://twitter.com/masteramarjeetkumar
 [linkedin]: https://www.linkedin.com/in/abhay-kshirsagar-2bn2b/
