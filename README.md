@@ -4,7 +4,7 @@
 
 [![Amarjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=masteramarjeet&show_icons=true&theme=cobalt&count_private=true)](https://github.com/MASTERAMARJEET)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masteramarjeet&card_width=445&exclude_repo=.dotfiles,st&theme=cobalt&layout=compact&langs_count=4)](https://github.com/MASTERAMARJEET)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masteramarjeet&card_width=445&exclude_repo=.dotfiles,st&theme=cobalt&layout=compact&langs_count=5)](https://github.com/MASTERAMARJEET)
 
 You can find me at my [**personal website**][website] or **Connect with me at** :
 
