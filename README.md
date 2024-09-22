@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masteramarjeet&card_width=445&exclude_repo=.dotfiles,st&theme=cobalt&layout=compact&langs_count=5)](https://github.com/MASTERAMARJEET)
 
-You can find me at my [**personal website**][website] or **Connect with me at** :
+**Connect with me at** :
 
 [<img align="left" alt="Amarjeet | Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail] 
 [<img align="left" alt="Amarjeet | Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" />][twitter] 
